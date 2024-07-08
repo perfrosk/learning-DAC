@@ -4,4 +4,4 @@ Learning Docs As Code
 Playground: Scipio Documentation
 
 
-Just testing the walls.
+Just checking the walls.
